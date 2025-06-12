@@ -14,9 +14,8 @@ A tabela abaixo lista os desafios que completei na seção de introdução, com 
 | `Welcome to Java!`           |    Fácil    | [Ver Código](./Java/01-Introduction/01-Welcome-to-Java/Solution.java)        |
 | `Java Stdin and Stdout I`    |    Fácil    | [Ver Código](./Java/01-Introduction/02-Java-Stdin-and-Stdout-I/Solution.java) |
 | `Java If-Else`               |    Fácil    | [Ver Código](./Java/01-Introduction/03-Java-If-Else/Solution.java)            |
-| `Java Stdin and Stdout II`   |    Fácil    | *Adicionar link quando subir o código* |
-| `Java Output Formatting`     |    Fácil    | *Adicionar link quando subir o código* |
-| ...                          |     ...     | ...                                                                          |
+| `Java Stdin and Stdout II`   |    Fácil    | [Ver Código](./Java/01-Introduction/04-Java Output Formatting/Solution.java)   |
+| `Java Output Formatting`     |    Fácil    | [Ver Código](./Java/01-Introduction/05-Java Loops I/Solution.java) |
 
 </br>
 HackerRank-Solutions/</br>
