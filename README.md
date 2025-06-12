@@ -12,13 +12,13 @@ The table below lists the challenges I have completed in the introduction sectio
 
 | Challenge                      | Difficulty | Solution Link                                                              |
 | ---------------------------- | :---------: | :--------------------------------------------------------------------------- |
-| `Welcome to Java!`           |    Easy    | [Ver Código](./01-Welcome-to-Java/Solution.java)                             |
-| `Java Stdin and Stdout I`    |    Easy    | [Ver Código](./02-Java-Stdin-and-Stdout-I/Solution.java)                      |
-| `Java If-Else`               |    Easy    | [Ver Código](./03-Java-If-Else/Solution.java)                                 |
-| `Java Stdin and Stdout II`   |    Easy    | [Ver Código](./04-Java-Stdin-and-Stdout-II/Solution.java)                     |
-| `Java Output Formatting`     |    Easy    | [Ver Código](./05-Java-Output-Formatting/Solution.java)                       |
-| `Java Loops I`               |    Easy    | [Ver Código](./06-Java-Loops-I/Solution.java)                                 |
-| `Java Loops II`              |    Easy    | [Ver Código](./07-Java-Loops-II/Solution.java)                                 |
+| `Welcome to Java!`           |    Easy    | [View Code](./01-Welcome-to-Java/Solution.java)                             |
+| `Java Stdin and Stdout I`    |    Easy    | [View Code](./02-Java-Stdin-and-Stdout-I/Solution.java)                      |
+| `Java If-Else`               |    Easy    | [View Code](./03-Java-If-Else/Solution.java)                                 |
+| `Java Stdin and Stdout II`   |    Easy    | [View Code](./04-Java-Stdin-and-Stdout-II/Solution.java)                     |
+| `Java Output Formatting`     |    Easy    | [View Code](./05-Java-Output-Formatting/Solution.java)                       |
+| `Java Loops I`               |    Easy    | [View Code](./06-Java-Loops-I/Solution.java)                                 |
+| `Java Loops II`              |    Easy    | [View Code](./07-Java-Loops-II/Solution.java)                                 |
 
 ## If you want, initialize the local Git repository and clone the repository
 ```
