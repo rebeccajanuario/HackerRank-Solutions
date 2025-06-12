@@ -23,7 +23,9 @@ A tabela abaixo lista os desafios que completei na seção de introdução, com 
 
 ## Inicializa o repositório Git localmente
 
+'''
 git init
+'''
 
 ## Conecta seu repositório local ao repositório remoto no GitHub
 ## (Copie o URL da página do seu repositório no GitHub)
