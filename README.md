@@ -1,4 +1,33 @@
-# Soluções de Desafios HackerRank em Java ☕
+#HackerRank Challenge Solutions in Java ☕
+
+Welcome to my repository of solutions for the HackerRank platform's challenges, focusing on the Java language. This project serves as a record of my progress and continuous learning. 🚀
+
+## 📁 Folder Structure
+
+The challenges are organized by category (such as "Introduction," "Strings," etc.), following the same structure as HackerRank for easy navigation.
+
+The table below lists the challenges I have completed in the introduction section, with their difficulty and a direct link to the solution code.
+
+
+| Challenge                      | Difficulty | Solution Link                                                              |
+| ---------------------------- | :---------: | :--------------------------------------------------------------------------- |
+| `Welcome to Java!`           |    Easy    | [Ver Código](./01-Welcome-to-Java/Solution.java)                             |
+| `Java Stdin and Stdout I`    |    Easy    | [Ver Código](./02-Java-Stdin-and-Stdout-I/Solution.java)                      |
+| `Java If-Else`               |    Easy    | [Ver Código](./03-Java-If-Else/Solution.java)                                 |
+| `Java Stdin and Stdout II`   |    Easy    | [Ver Código](./04-Java-Stdin-and-Stdout-II/Solution.java)                     |
+| `Java Output Formatting`     |    Easy    | [Ver Código](./05-Java-Output-Formatting/Solution.java)                       |
+| `Java Loops I`               |    Easy    | [Ver Código](./06-Java-Loops-I/Solution.java)                                 |
+| `Java Loops II`              |    Easy    | [Ver Código](./07-Java-Loops-II/Solution.java)                                 |
+
+##If you want, initialize the local Git repository and clone the repository
+```
+git init
+git clone https://github.com/rebeccajanuario/HackerRank-Solutions/
+```
+
+###########################################
+
+# Soluções de Desafios HackerRank em Java ☕ 
 
 Bem-vindo(a) ao meu repositório de soluções para os desafios da plataforma **HackerRank**, focados na linguagem Java. Este projeto serve como um registro do meu progresso e aprendizado contínuo. 🚀
 
