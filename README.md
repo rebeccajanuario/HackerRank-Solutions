@@ -20,7 +20,7 @@ git init
 
 # Conecta seu repositório local ao repositório remoto no GitHub
 # (Copie o URL da página do seu repositório no GitHub)
-git remote add origin https://github.com/SEU-USUARIO/HackerRank-Solutions.git
+git remote add origin https://github.com/rebeccajanuario/HackerRank-Solutions.git
 
 # Adiciona todos os arquivos que você criou para o stage
 git add .
