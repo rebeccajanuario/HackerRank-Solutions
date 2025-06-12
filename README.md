@@ -10,8 +10,9 @@ HackerRank-Solutions/</br>
     │   │   └── Solution.java</br>
     │   ├── 03-Java-If-Else/</br>
     │   │   └── Solution.java</br>
-    │   └── ... (e assim por diante)</br>
-    │</br>
+    │   └── 04-Java Output Formatting</br>
+    │   │   │   └── Solution.java</br>
+    </br>
 
 
 
