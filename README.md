@@ -1,4 +1,5 @@
-#HackerRank Challenge Solutions in Java ☕
+
+## HackerRank Challenge Solutions in Java ☕
 
 Welcome to my repository of solutions for the HackerRank platform's challenges, focusing on the Java language. This project serves as a record of my progress and continuous learning. 🚀
 
@@ -19,13 +20,13 @@ The table below lists the challenges I have completed in the introduction sectio
 | `Java Loops I`               |    Easy    | [Ver Código](./06-Java-Loops-I/Solution.java)                                 |
 | `Java Loops II`              |    Easy    | [Ver Código](./07-Java-Loops-II/Solution.java)                                 |
 
-##If you want, initialize the local Git repository and clone the repository
+## If you want, initialize the local Git repository and clone the repository
 ```
 git init
 git clone https://github.com/rebeccajanuario/HackerRank-Solutions/
 ```
 
-###########################################
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 # Soluções de Desafios HackerRank em Java ☕ 
 
