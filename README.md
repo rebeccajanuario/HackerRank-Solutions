@@ -12,6 +12,8 @@ HackerRank-Solutions/</br>
     │   │   └── Solution.java</br>
     │   └── 04-Java Output Formatting</br>
     │   │   │   └── Solution.java</br>
+    │   └── 05-Java Loops I</br>
+    │   │   │   └── Solution.java</br>
     </br>
 
 
