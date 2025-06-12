@@ -17,6 +17,7 @@ A tabela abaixo lista os desafios que completei na seção de introdução, com 
 | `Java Stdin and Stdout II`   |    Fácil    | [Ver Código](./04-Java-Stdin-and-Stdout-II/Solution.java)                     |
 | `Java Output Formatting`     |    Fácil    | [Ver Código](./05-Java-Output-Formatting/Solution.java)                       |
 | `Java Loops I`               |    Fácil    | [Ver Código](./06-Java-Loops-I/Solution.java)                                 |
+| `Java Loops II`              |    Fácil    | [Ver Código](./07-Java-Loops-II/Solution.java)                                 |
 
 
 
