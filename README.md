@@ -21,19 +21,11 @@ A tabela abaixo lista os desafios que completei na seção de introdução, com 
 
 
 
-## Inicializa o repositório Git localmente
+## Caso queira, inicia o repositório Git localmente e clona o repositório 
+```
+git init
+git clone https://github.com/rebeccajanuario/HackerRank-Solutions/
+```
 
-'git init'
 
-## Conecta seu repositório local ao repositório remoto no GitHub
-## (Copie o URL da página do seu repositório no GitHub)
-git remote add origin https://github.com/rebeccajanuario/HackerRank-Solutions.git
 
-## Adiciona todos os arquivos que você criou para o stage
-git add .
-
-## Faz o commit (salva as alterações) com uma mensagem clara
-git commit -m "feat: Adiciona soluções de Java Introduction do HackerRank"
-
-## Envia seus arquivos para o GitHub
-git push -u origin main
