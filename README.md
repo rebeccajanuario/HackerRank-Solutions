@@ -1,5 +1,5 @@
 
-## HackerRank Challenge Solutions in Java ☕
+# HackerRank Challenge Solutions in Java ☕
 
 Welcome to my repository of solutions for the HackerRank platform's challenges, focusing on the Java language. This project serves as a record of my progress and continuous learning. 🚀
 
