@@ -7,7 +7,6 @@ Welcome to my repository of solutions for the HackerRank platform's challenges, 
 ## 📁 Introduction Challenges
 
 The table below lists the challenges I have completed in the "Introduction" section, with their difficulty and a direct link to the solution code.
-
 | Challenge                       | Difficulty | Solution Link                                                                |
 | ------------------------------- | :--------: | :--------------------------------------------------------------------------- |
 | `Welcome to Java!`              |    Easy    | [View Code](./01-Welcome-to-Java/Solution.java)                              |
