@@ -19,6 +19,11 @@ The table below lists the challenges I have completed in the introduction sectio
 | `Java Output Formatting`     |    Easy    | [View Code](./05-Java-Output-Formatting/Solution.java)                       |
 | `Java Loops I`               |    Easy    | [View Code](./06-Java-Loops-I/Solution.java)                                 |
 | `Java Loops II`              |    Easy    | [View Code](./07-Java-Loops-II/Solution.java)                                 |
+| `Java End-of-file`              |    Easy    | [Ver Código](./08-Java End-of-file/Solution.java)                                 |
+| `Java Static Initializer Block` |    Easy    | [Ver Código](./09-Java Static Initializer Block/Solution.java)                                 |
+| `Java Int to String`            |    Easy    | [Ver Código](./10-Java Int to String/Solution.java)                                 |
+| `Java Date and Time`           |    Easy    | [Ver Código](./11-Java Date and Time/Solution.java)                                 |
+| `Java Currency Formatter`       |    Easy    | [Ver Código](./12-Java Currency Formatter/Solution.java)                                 |
 
 ## If you want, initialize the local Git repository and clone the repository
 ```
@@ -48,6 +53,11 @@ A tabela abaixo lista os desafios que completei na seção de introdução, com 
 | `Java Output Formatting`     |    Fácil    | [Ver Código](./05-Java-Output-Formatting/Solution.java)                       |
 | `Java Loops I`               |    Fácil    | [Ver Código](./06-Java-Loops-I/Solution.java)                                 |
 | `Java Loops II`              |    Fácil    | [Ver Código](./07-Java-Loops-II/Solution.java)                                 |
+| `Java End-of-file`              |    Fácil    | [Ver Código](./08-Java End-of-file/Solution.java)                                 |
+| `Java Static Initializer Block` |    Fácil    | [Ver Código](./09-Java Static Initializer Block/Solution.java)                                 |
+| `Java Int to String`            |    Fácil    | [Ver Código](./10-Java Int to String/Solution.java)                                 |
+| `Java Date and Time`           |    Fácil    | [Ver Código](./11-Java Date and Time/Solution.java)                                 |
+| `Java Currency Formatter`       |    Fácil    | [Ver Código](./12-Java Currency Formatter/Solution.java)                                 |
 
 
 
